@@ -1,4 +1,4 @@
-# GSEnku Solver
+# Senku Solver
 
 This project is a C++ program designed to solve the GSEnku game on different board configurations and with various allowed move sets.
 
